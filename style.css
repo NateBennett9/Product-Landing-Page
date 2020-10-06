@@ -12,6 +12,13 @@ body {
     font-family: 'Roboto', sans-serif;
     margin: 0;
 }
+
+.container {
+    display: flex;
+    max-width: 700px;
+    margin: 0 auto;
+}
+
 nav {
   background-color: #FFDB15;
   display: flex;
